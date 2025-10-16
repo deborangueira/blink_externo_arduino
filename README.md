@@ -1,2 +1,1 @@
-# blink_externo_arduino
-simulação no TinkerCad com uma montagem do pisca-pisca com Arduino Uno.
+- [Acesso ao código](https://github.com/deborangueira/blink_externo_arduino/blob/main/script.cpp)
