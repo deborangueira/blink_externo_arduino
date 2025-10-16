@@ -1,1 +1,2 @@
 - [Acesso ao código](https://github.com/deborangueira/blink_externo_arduino/blob/main/script.cpp)
+- [Acesso ao vídeo (https://drive.google.com/file/d/1RmxJ9Y7k4VZlorDbAm-nLxyt3dAt_6JV/view?usp=sharing)]
